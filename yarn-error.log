@@ -1,0 +1,36 @@
+Arguments: 
+  /home/pyvkd/.nvm/versions/node/v8.9.4/bin/node /usr/share/yarn/bin/yarn.js init
+
+PATH: 
+  /home/pyvkd/.nvm/versions/node/v8.9.4/bin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games:/home/pyvkd/Android/Sdk/tools:/home/pyvkd/Android/Sdk/platform-tools:/home/pyvkd/Android/Sdk/bin:/home/pyvkd/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/bin:/home/pyvkd/go/bin:/home/pyvkd/.fzf/bin
+
+Yarn version: 
+  1.10.1
+
+Node version: 
+  8.9.4
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (/usr/share/yarn/lib/cli.js:116426:13)
+      at emitNone (events.js:106:13)
+      at Interface.emit (events.js:208:7)
+      at Interface._ttyWrite (readline.js:775:16)
+      at ReadStream.onkeypress (readline.js:160:10)
+      at emitTwo (events.js:126:13)
+      at ReadStream.emit (events.js:214:7)
+      at emitKeys (internal/readline.js:420:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1011:36)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
